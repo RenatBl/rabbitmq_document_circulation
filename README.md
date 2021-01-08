@@ -1,6 +1,8 @@
 # rabbitmq_document_circulation
 
 ### Ссылки на другие проекты:
+- RabbitMQ (fanout)
+https://github.com/RenatBl/rabbit_fanout
 - HATEOAS
 https://github.com/RenatBl/hateoas
 - Аннотации HTML
